@@ -1,0 +1,10 @@
+
+.Btn {
+    visibility: visible;
+}
+.Btn.hide {
+    visibility: hidden;
+}
+.result.hide {
+    visibility: hidden;
+}
